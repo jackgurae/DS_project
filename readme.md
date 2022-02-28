@@ -11,5 +11,5 @@
   - Parallel computation is an ideal use case for Monte Carlo Simulation
   - Leverage computation speed using PyTorch's GPU Tensors
   - Use PyTorch's Autograd features to calculate option Greeks
-- `Collaborative Filtering Recommender with PySpark`
-  - Use ALS model to fill rating prediction 
+- `Collaborative Filtering Recommender with PySpark` [Colab link](https://colab.research.google.com/drive/1lHouZXetP4bp_Pw9SGmtT0SMqmzuWHuY#scrollTo=XcPch9fC9gie&uniqifier=1)
+  - Use ALS model to fill rating prediction  
