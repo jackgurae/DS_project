@@ -15,3 +15,5 @@
   - Use ALS model to fill rating prediction  
 ### Notebook mini Project
 - `Analyze International Debt Statistics`
+  - SQL query using %%sql in Jupyter Notebook
+  - Leverage basic SQL query & sub-query to analyze data quickly
